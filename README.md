@@ -1,6 +1,3 @@
-# Aditya UnLimited
-*Data Science Consulting & Analytics Solutions*  
-
 ## Who We Are  
 Aditya UnLimited is a mission‑driven data science consultancy founded by Aditya Maheshwari, a seasoned data scientist with over six years of experience transforming complex data into actionable insights for public‑sector and private clients. We partner with organisations to source high‑impact projects, build robust data collection frameworks, craft compelling visualisations, and deliver rapid machine learning proof‑of‑concepts that drive real‑time, insight‑driven decision‑making.
 
