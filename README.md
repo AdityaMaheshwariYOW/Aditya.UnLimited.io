@@ -1,4 +1,4 @@
-# Aditya.UnLimited.io
+# Aditya UnLimited
 *Data Science Consulting & Analytics Solutions*  
 
 ## Who We Are  
